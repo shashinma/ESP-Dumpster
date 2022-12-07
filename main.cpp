@@ -25,8 +25,8 @@ class NetworkActivities {
         HTTPClient http;
 
         // WiFi authorization data
-        const char* _ssid = "Kravchenko"; // wifi-home, MIKHAIL SHASHIN
-        const char* _password = "pudo7846"; // 8965799777979c604, 13042001
+        const char* _ssid = "_ssid";
+        const char* _password = "_password";
 
         // HTTP connection authorization data
         const char* _serverName = "http://shashizv.beget.tech/post-esp-data.php";
